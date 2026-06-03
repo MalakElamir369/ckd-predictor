@@ -3,7 +3,12 @@
 Machine Learning web application for Chronic Kidney Disease prediction.
 
 ## Live Demo
-<your Streamlit link>
+
+https://ckd-predictor-jw98nbt99biunbkjdgw67v.streamlit.app
+
+## GitHub Repository
+
+https://github.com/MalakElamir369/ckd-predictor
 
 ## Technologies
 - Python
